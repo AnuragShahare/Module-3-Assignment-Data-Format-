@@ -1,0 +1,15 @@
+{
+  "name": "m3-modules-demo",
+  "version": "1.0.0",
+  "description": "M3 -Assignment-DataFormat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Anurag Shahare",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
